@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BluetoothPeripheralsViewController.h
 //  蓝牙外设
 //
 //  Created by 曹记 on 2018/3/6.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BluetoothPeripheralsViewController : UIViewController
 
 @end
-
